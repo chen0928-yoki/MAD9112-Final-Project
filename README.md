@@ -2,7 +2,7 @@
 
 
 
-##step 2 
+##step 1 
 
 ```
 function getDaysUntilChristmas() {
@@ -33,9 +33,10 @@ console.log(`Days until Christmas: ${daysRemaining}`);
 
 
 ##step 3
-![image](./step3.png)
+![image](step3.png)
 
-![image](./Step 4.png)
+##step 4
+![image](step4.png)
 
 
 
